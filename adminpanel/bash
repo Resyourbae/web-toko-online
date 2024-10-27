@@ -1,0 +1,9 @@
+/toko_online
+    ├── index.php
+    ├── style.css
+    └── products.php
+
+/stuktur
+    ├──user
+    ├──kategori
+    └──produk
